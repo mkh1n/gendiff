@@ -24,7 +24,7 @@
     "commander": "^10.0.0",
     "core-js": "^3.28.0",
     "js-yaml": "^4.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "eslint": "^8.34.0",
